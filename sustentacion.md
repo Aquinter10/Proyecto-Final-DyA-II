@@ -26,4 +26,8 @@ Aqui se ejecuta el programa, el usuario tiene tres opciones para elegir.
 **Analisis del problema**
 Dada la falta de heuristicas se puede determinar que en el peor de los casos el algoritmo de resolucion recorrera todas las rutas posibles hasta llegar a la correcta, la cual seria la ultima. Para bases de 5 hacia arriba el programa es demasiado lento para ser considerado.
 > Alejandro Quintero M.
+> Miguel Valencia
+> Santiago Gomez Rueda
+> Grupo 8
+
 
