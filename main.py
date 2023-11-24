@@ -2,7 +2,6 @@ import checker as ch
 import sudokureader as sd
 import solver as sv
 import math
-import clontesting as cln
 import time
 import sudokugenerator as sg
 def main():
